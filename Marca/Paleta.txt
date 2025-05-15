@@ -1,0 +1,6 @@
+root:
+
+Azul logo: #0063d7
+Azul fundo: #051221
+Font Color: #fff
+Font Family: Poppins
